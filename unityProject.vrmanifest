@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.projectfinal.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\__VR Diploma round 8 - black (Shared)\\Omar Khaled\\Room Builder\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Room Builder [Testing]"
+        }
+      }
+    }
+  ]
+}
